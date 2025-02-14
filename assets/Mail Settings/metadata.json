@@ -1,0 +1,21 @@
+{
+  "name": "Mail Settings",
+  "size": [
+    16,
+    20,
+    32
+  ],
+  "style": [
+    "Filled",
+    "Regular",
+    "Light"
+  ],
+  "keyword": "fluent-icon, outlook",
+  "description": "Used in general mail scenarios.",
+  "metaphor": [
+    "envelope",
+    "email",
+    "delivery",
+    "message"
+  ]
+}

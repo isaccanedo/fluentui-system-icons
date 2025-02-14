@@ -1,0 +1,20 @@
+{
+  "name": "Script",
+  "size": [
+    16,
+    20,
+    24,
+    32
+  ],
+  "style": [
+    "Filled",
+    "Regular"
+  ],
+  "keyword": "fluent-icon, visual studio code",
+  "description": "Used to represent script in file type scenarios.",
+  "metaphor": [
+    "script",
+    "scroll",
+    "template"
+  ]
+}

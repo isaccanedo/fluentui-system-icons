@@ -1,0 +1,25 @@
+{
+  "name": "Attach",
+  "size": [
+    24,
+    20,
+    16,
+    12,
+    32,
+    28,
+    48
+  ],
+  "style": [
+    "Regular",
+    "Filled",
+    "Light"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent files attached to communications.",
+  "metaphor": [
+    "paperclip",
+    "file",
+    "share",
+    "send"
+  ]
+}

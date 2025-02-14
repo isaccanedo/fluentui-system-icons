@@ -1,0 +1,16 @@
+{
+  "name": "Autocorrect",
+  "size": [
+    24,
+    20,
+    32
+  ],
+  "style": [
+    "Regular",
+    "Filled",
+    "Light"
+  ],
+  "keyword": null,
+  "description": "#fluent-icon",
+  "metaphor": null
+}

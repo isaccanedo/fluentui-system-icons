@@ -1,0 +1,23 @@
+{
+  "name": "Hand Draw",
+  "size": [
+    24,
+    28,
+    20,
+    16,
+    32
+  ],
+  "style": [
+    "Regular",
+    "Filled",
+    "Light"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent gesture drawing.",
+  "metaphor": [
+    "touchscreen",
+    "body",
+    "doodle",
+    "gesture"
+  ]
+}

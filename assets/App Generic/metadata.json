@@ -1,0 +1,20 @@
+{
+  "name": "App Generic",
+  "size": [
+    24,
+    20,
+    32,
+    48
+  ],
+  "style": [
+    "Regular",
+    "Filled",
+    "Light"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for content around app ui.",
+  "metaphor": [
+    "collection",
+    "ui"
+  ]
+}

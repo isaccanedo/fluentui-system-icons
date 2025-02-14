@@ -1,0 +1,25 @@
+{
+  "name": "Edit",
+  "size": [
+    32,
+    24,
+    20,
+    16,
+    28,
+    48,
+    12
+  ],
+  "style": [
+    "Regular",
+    "Filled",
+    "Light"
+  ],
+  "keyword": "fluent-icon, outlook",
+  "description": "Used in editing/update or drawing scenarios.",
+  "metaphor": [
+    "pencil",
+    "update",
+    "create",
+    "draw"
+  ]
+}

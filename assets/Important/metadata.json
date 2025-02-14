@@ -1,0 +1,24 @@
+{
+  "name": "Important",
+  "size": [
+    24,
+    20,
+    16,
+    12,
+    32
+  ],
+  "style": [
+    "Regular",
+    "Filled",
+    "Light"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to mark important content.",
+  "metaphor": [
+    "exclamation",
+    "warning",
+    "alert",
+    "important",
+    "urgent"
+  ]
+}

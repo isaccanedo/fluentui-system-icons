@@ -1,0 +1,25 @@
+{
+  "name": "Document Briefcase",
+  "size": [
+    24,
+    20,
+    32,
+    16
+  ],
+  "style": [
+    "Regular",
+    "Filled"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent general file types and actions.",
+  "metaphor": [
+    "paper",
+    "work",
+    "file",
+    "analog",
+    "organization",
+    "business",
+    "vertical",
+    "information barriers"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Shapes",
+  "size": [
+    24,
+    20,
+    16,
+    28,
+    48,
+    32
+  ],
+  "style": [
+    "Regular",
+    "Filled"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent shape choices or collection scenarios.",
+  "metaphor": [
+    "square",
+    "circle",
+    "collection",
+    "multiple"
+  ]
+}

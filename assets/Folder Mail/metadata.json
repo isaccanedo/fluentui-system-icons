@@ -1,0 +1,21 @@
+{
+  "name": "Folder Mail",
+  "size": [
+    16,
+    20,
+    24,
+    28,
+    32
+  ],
+  "style": [
+    "Regular",
+    "Filled",
+    "Light"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent collections of files.",
+  "metaphor": [
+    "analog",
+    "collection"
+  ]
+}

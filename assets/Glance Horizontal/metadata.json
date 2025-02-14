@@ -1,0 +1,22 @@
+{
+  "name": "Glance Horizontal",
+  "size": [
+    20,
+    12,
+    24,
+    16,
+    32,
+    48,
+    28
+  ],
+  "style": [
+    "Regular",
+    "Filled"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used in tile card scenarios. Contains directional variants.",
+  "metaphor": [
+    "card",
+    "tile view"
+  ]
+}

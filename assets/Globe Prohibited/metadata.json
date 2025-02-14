@@ -1,0 +1,20 @@
+{
+  "name": "Globe Prohibited",
+  "size": [
+    20,
+    24,
+    16
+  ],
+  "style": [
+    "Filled",
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used in scenarios representing the internet & global representation scenarios.",
+  "metaphor": [
+    "web",
+    "world",
+    "earth",
+    "global"
+  ]
+}

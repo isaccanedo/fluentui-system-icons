@@ -1,0 +1,25 @@
+{
+  "name": "Line Horizontal 3",
+  "size": [
+    20,
+    48,
+    32,
+    28,
+    24,
+    16
+  ],
+  "style": [
+    "Regular",
+    "Filled"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used in generic scenarios.Note that we also have Navigation used in navigation moments.",
+  "metaphor": [
+    "generic",
+    "create",
+    "one",
+    "three",
+    "five",
+    "error"
+  ]
+}

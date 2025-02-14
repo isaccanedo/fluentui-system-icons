@@ -1,0 +1,22 @@
+{
+  "name": "Rotate Left",
+  "size": [
+    24,
+    20,
+    32
+  ],
+  "style": [
+    "Regular",
+    "Filled",
+    "Light"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to rotate content on canvas.",
+  "metaphor": [
+    "edit",
+    "create",
+    "canvas",
+    "horizontal",
+    "vertical"
+  ]
+}

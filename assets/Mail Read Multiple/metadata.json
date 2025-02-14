@@ -1,0 +1,25 @@
+{
+  "name": "Mail Read Multiple",
+  "size": [
+    16,
+    24,
+    28,
+    20,
+    32
+  ],
+  "style": [
+    "Regular",
+    "Filled",
+    "Light"
+  ],
+  "keyword": "fluent-icon, outlook",
+  "description": "Used in general mail scenarios.",
+  "metaphor": [
+    "envelope",
+    "email",
+    "delivery",
+    "message",
+    "open",
+    "read"
+  ]
+}

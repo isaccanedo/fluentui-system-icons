@@ -1,0 +1,22 @@
+{
+  "name": "Archive Settings",
+  "size": [
+    16,
+    20,
+    24,
+    28,
+    32
+  ],
+  "style": [
+    "Regular",
+    "Filled",
+    "Light"
+  ],
+  "keyword": "fluent-icon, outlook",
+  "description": "Used for archiving content.",
+  "metaphor": [
+    "box",
+    "package",
+    "collection"
+  ]
+}

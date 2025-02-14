@@ -1,0 +1,22 @@
+{
+  "name": "Lasso",
+  "size": [
+    24,
+    20,
+    28,
+    32
+  ],
+  "style": [
+    "Regular",
+    "Filled",
+    "Light"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used in general selection scenarios.",
+  "metaphor": [
+    "select",
+    "edit",
+    "create",
+    "tool"
+  ]
+}

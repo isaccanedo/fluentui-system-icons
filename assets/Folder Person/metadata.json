@@ -1,0 +1,22 @@
+{
+  "name": "Folder Person",
+  "size": [
+    16,
+    20,
+    48,
+    32,
+    28,
+    24
+  ],
+  "style": [
+    "Filled",
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent collections of files.",
+  "metaphor": [
+    "analog",
+    "collection",
+    "subject rights requests"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Shield Error",
+  "size": [
+    24,
+    20,
+    16,
+    32
+  ],
+  "style": [
+    "Regular",
+    "Filled",
+    "Light"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent security, safety & protection.",
+  "metaphor": [
+    "security",
+    "protection",
+    "safety"
+  ]
+}

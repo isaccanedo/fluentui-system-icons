@@ -1,0 +1,25 @@
+{
+  "name": "Comment",
+  "size": [
+    48,
+    28,
+    24,
+    20,
+    16,
+    12,
+    32
+  ],
+  "style": [
+    "Regular",
+    "Filled",
+    "Light"
+  ],
+  "keyword": "fluent-icon, edge",
+  "description": "Used in commenting scenarios.",
+  "metaphor": [
+    "chat",
+    "mention",
+    "discussion"
+  ],
+  "directionType": "mirror"
+}

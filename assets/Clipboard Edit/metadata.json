@@ -1,0 +1,17 @@
+{
+  "name": "Clipboard Edit",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular",
+    "Filled"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used in copy & task scenarios.",
+  "metaphor": [
+    "copy",
+    "memory",
+    "analog"
+  ]
+}

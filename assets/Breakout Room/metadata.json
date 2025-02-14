@@ -1,0 +1,20 @@
+{
+  "name": "Breakout Room",
+  "size": [
+    20,
+    24,
+    28,
+    32
+  ],
+  "style": [
+    "Regular",
+    "Filled",
+    "Light"
+  ],
+  "keyword": "fluent-icon, teams",
+  "description": "Used on controls for breakout rooms in Teams calls.",
+  "metaphor": [
+    "call",
+    "meeting"
+  ]
+}

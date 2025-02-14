@@ -1,0 +1,23 @@
+{
+  "name": "Flag",
+  "size": [
+    48,
+    28,
+    24,
+    20,
+    16,
+    32
+  ],
+  "style": [
+    "Regular",
+    "Filled",
+    "Light"
+  ],
+  "keyword": "fluent-icon, outlook",
+  "description": "Used in mail to mark as important.",
+  "metaphor": [
+    "urgent",
+    "important",
+    "look"
+  ]
+}

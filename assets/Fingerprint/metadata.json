@@ -1,0 +1,21 @@
+{
+  "name": "Fingerprint",
+  "size": [
+    48,
+    24,
+    20,
+    32,
+    16
+  ],
+  "style": [
+    "Regular",
+    "Filled"
+  ],
+  "keyword": "fluent-icon",
+  "description": "",
+  "metaphor": [
+    "scan",
+    "security",
+    "hand"
+  ]
+}

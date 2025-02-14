@@ -1,0 +1,25 @@
+{
+  "name": "Arrow Up",
+  "size": [
+    28,
+    24,
+    20,
+    16,
+    32,
+    48,
+    12
+  ],
+  "style": [
+    "Regular",
+    "Filled"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for general arrow scenarios.",
+  "metaphor": [
+    "arrow",
+    "up",
+    "direction",
+    "point"
+  ],
+  "directionType": "mirror"
+}

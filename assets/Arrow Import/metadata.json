@@ -1,0 +1,21 @@
+{
+  "name": "Arrow Import",
+  "size": [
+    24,
+    20,
+    16
+  ],
+  "style": [
+    "Regular",
+    "Filled"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for pulling content to source.",
+  "metaphor": [
+    "arrow",
+    "point",
+    "direction",
+    ""
+  ],
+  "directionType": "mirror"
+}

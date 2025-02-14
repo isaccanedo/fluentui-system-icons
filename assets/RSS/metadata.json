@@ -1,0 +1,21 @@
+{
+  "name": "RSS",
+  "size": [
+    24,
+    20,
+    16
+  ],
+  "style": [
+    "Regular",
+    "Filled"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent web feed of aggregated news, content or information.",
+  "metaphor": [
+    "really simple syndication",
+    "feed",
+    "news",
+    "aggregator",
+    "square"
+  ]
+}

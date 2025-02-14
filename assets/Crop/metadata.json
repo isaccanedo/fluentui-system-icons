@@ -1,0 +1,19 @@
+{
+  "name": "Crop",
+  "size": [
+    24,
+    20,
+    32,
+    28,
+    16,
+    48
+  ],
+  "style": [
+    "Regular",
+    "Filled",
+    "Light"
+  ],
+  "keyword": null,
+  "description": "#fluent-icon",
+  "metaphor": null
+}

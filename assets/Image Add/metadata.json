@@ -1,0 +1,23 @@
+{
+  "name": "Image Add",
+  "size": [
+    24,
+    20,
+    32
+  ],
+  "style": [
+    "Regular",
+    "Filled",
+    "Light"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent images in content and photo editing scenarios.",
+  "metaphor": [
+    "photo",
+    "picture",
+    "snapshot",
+    "content",
+    "plus",
+    "new"
+  ]
+}
