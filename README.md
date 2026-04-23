@@ -1,4 +1,4 @@
-# Fluent UI System Icons
+## Fluent UI System Icons
 
 ![Pull request validation](https://github.com/microsoft/fluentui-system-icons/actions/workflows/pr.yml/badge.svg)
 
